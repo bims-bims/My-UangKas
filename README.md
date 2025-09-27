@@ -1,16 +1,20 @@
-# React + Vite
+# My-UangKas Dapps
+![MobilQu Dapps](https://crimson-high-eagle-384.mypinata.cloud/ipfs/bafkreibddcwx6oj7mn6ibot4okggumff6gkw4keezytuss4axc2gbtjbpy)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Adalah Sebuah Aplikasi yang Dimana dimaksudkan Untuk Pemebalajaran Memahami Bagaiamana Smart Contract Dan Front End
+(React Js) Dengan Tailwind Css Berinteraksi. Untuk Penjelasan Smart Contract Object Oriented Programming.
 
-Currently, two official plugins are available:
+# Cara Penggunaan
+- SETELAH REPO DI CLONE / DOWNLOAD
+- BUKA FILE(REPO) DENGAN VISUAL STUDIO CODE 
+- BUKA TERMINAL DI VS CODE JALANKAN PERINTAH NPM INSTALL
+- TUNGGU SAMPAI SELESAI
+- KEMUDIAN NPM RUN DEV
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Cara Mengatasi Error(BUG)
+- Bisa Mencari Dahulu Solusi Dengan Ai
+- Bisa Bertanya Di Grop Yang Sudah Di Sediakan
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+         @author LearnWithBims Proyek ini dilisensikan di bawah Lisensi MIT 

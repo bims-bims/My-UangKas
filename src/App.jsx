@@ -10,40 +10,9 @@ import {
 } from "lucide-react";
 
 // ABI kontrak
-const contractABI = [
-  {
-    inputs: [{ internalType: "address payable", name: "penerima", type: "address" }],
-    name: "bayar",
-    outputs: [],
-    stateMutability: "payable",
-    type: "function",
-  },
-  { inputs: [], name: "deposit", outputs: [], stateMutability: "payable", type: "function" },
-  {
-    inputs: [{ internalType: "uint256", name: "jumlah", type: "uint256" }],
-    name: "tarik",
-    outputs: [],
-    stateMutability: "nonpayable",
-    type: "function",
-  },
-  { inputs: [], stateMutability: "nonpayable", type: "constructor" },
-  {
-    inputs: [],
-    name: "getSaldo",
-    outputs: [{ internalType: "uint256", name: "", type: "uint256" }],
-    stateMutability: "view",
-    type: "function",
-  },
-  {
-    inputs: [],
-    name: "owner",
-    outputs: [{ internalType: "address", name: "", type: "address" }],
-    stateMutability: "view",
-    type: "function",
-  },
-];
+const contractABI = [];// Pastekan ABI Disini
 
-const contractAddress = "0xe51fA25a4b891edc52275524A689063230145E9B"; // ganti dengan address kontrakmu
+const contractAddress = ""; // Pastekan Address Disini
 
 function App() {
   const [account, setAccount] = useState(null);
